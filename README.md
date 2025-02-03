@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Kollakota Siva Sai
 
-<!--
-**Siva-Sai22/Siva-Sai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a keen interest in blockchain and full-stack development and competitive programming. I enjoy building innovative solutions and continuously enhancing my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Solidity, C++, JavaScript, TypeScript, Python
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express
+- **Databases:** MongoDB, PostgreSQL
+- **Tools & Platforms:** Git, Docker
+
+## 🌟 Notable Projects
+
+Here are some of the projects I've worked on:
+
+- **Liquidity-ICO-Marketplace:** A platform facilitating Initial Coin Offerings with liquidity features.
+- **Chat App (Backend & Frontend):** A real-time chat application built with TypeScript, featuring both backend and frontend implementations.
+- **Block Blog:** A decentralized blogging platform leveraging blockchain technology.
+- **Local Library:** A web application for managing and browsing a collection of books.
+- **Etch-a-Sketch:** A digital recreation of the classic drawing toy using JavaScript.
+
+Feel free to explore these projects in my repositories.
+
+## 🏆 Competitive Programming
+
+I actively participate in competitive programming platforms to sharpen my problem-solving skills:
+
+- **Codeforces:** [siva_sai_0](https://codeforces.net/profile/siva_sai_0) (Expert, Max Rating: 1620)
+- **CodeChef:** [siva_sai](https://www.codechef.com/users/siva_sai_0) (4 star, Max Rating: 1813)
