@@ -27,3 +27,11 @@ I actively participate in competitive programming platforms to sharpen my proble
 
 - **Codeforces:** [siva_sai_0](https://codeforces.net/profile/siva_sai_0) (Expert, Max Rating: 1620)
 - **CodeChef:** [siva_sai](https://www.codechef.com/users/siva_sai_0) (4 star, Max Rating: 1813)
+
+## 📫 Let's Connect
+
+I'm always open to collaboration and discussions. You can reach me at:
+
+- **Email:** kollakotasivasai@gmail.com
+
+Looking forward to connecting with fellow developers and enthusiasts!
