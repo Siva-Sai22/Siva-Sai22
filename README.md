@@ -13,11 +13,11 @@ I'm a passionate developer with a keen interest in blockchain and full-stack dev
 
 Here are some of the projects I've worked on:
 
+- **Redust:** A high-performance Redis clone built in Rust with Tokio, featuring transactions, pub/sub messaging, replication, and support for advanced data structures like lists and streams.
 - **Liquidity-ICO-Marketplace:** A platform facilitating Initial Coin Offerings with liquidity features.
 - **Chat App (Backend & Frontend):** A real-time chat application built with TypeScript, featuring both backend and frontend implementations.
 - **Block Blog:** A decentralized blogging platform leveraging blockchain technology.
 - **Local Library:** A web application for managing and browsing a collection of books.
-- **Etch-a-Sketch:** A digital recreation of the classic drawing toy using JavaScript.
 
 Feel free to explore these projects in my repositories.
 
